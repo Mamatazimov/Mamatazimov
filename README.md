@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi, I'm Jaloliddin
 
-<!--
-**Mamatazimov/Mamatazimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Python Developer  
+🚀 Django | Flask | React  
+📍 Uzbekistan
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Backend:** Python, Django, Flask
+- **Frontend:** HTML, CSS, React, Bootstrap
+- **Database:** PostgreSQL, SQLite
+- **Tools:** Git, Linux, Docker (basic)
+
+---
+
+### 📌 Projects
+🔹 **Real-time Chat App** – Django Channels & WebSockets  
+🔹 **Telegram Bots** – Aiogram, Telethon  
+🔹 **Portfolio Website** – Flask + Bootstrap  
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+
+---
+
+### 📫 Contact
+- Telegram: @username
+- Email: example@gmail.com
