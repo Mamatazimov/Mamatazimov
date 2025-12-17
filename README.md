@@ -1,23 +1,16 @@
-## 👋 Hi, I'm Jaloliddin
+## 👋 Assalomu Alaykum, I'm Jaloliddin
 
 💻 Full Stack Python Developer  
-🚀 Django | Flask | React  
+🚀 Django | Flask | FastApi | React  
 📍 Uzbekistan
 
 ---
 
 ### 🛠 Tech Stack
-- **Backend:** Python, Django, Flask
+- **Backend:** Python, Django, Flask, FastApi
 - **Frontend:** HTML, CSS, React, Bootstrap
 - **Database:** PostgreSQL, SQLite
-- **Tools:** Git, Linux, Docker (basic)
-
----
-
-### 📌 Projects
-🔹 **Real-time Chat App** – Django Channels & WebSockets  
-🔹 **Telegram Bots** – Aiogram, Telethon  
-🔹 **Portfolio Website** – Flask + Bootstrap  
+- **Tools:** Git, Linux
 
 ---
 
